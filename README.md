@@ -1,0 +1,1 @@
+# Node simple rest worker
